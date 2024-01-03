@@ -1,4 +1,4 @@
-// import { EnumStatus } from "~/types";
+import { EnumStatus } from "~/types";
 
 export const DB_ID = "jira-db";
 export const COLLECTION_DEALS = "deals";
